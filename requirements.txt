@@ -1,0 +1,8 @@
+nltk
+rank_bm25
+transformers
+faiss-cpu
+numpy
+pandas
+scikit-learn
+streamlit
